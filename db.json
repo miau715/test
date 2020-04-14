@@ -1,0 +1,204 @@
+{
+  "shippingData": {
+    "sizes": [
+    {
+      "key": 1,
+      "size": "20-22 吋",
+      "price": 300
+    },
+    {
+      "key": 2,
+      "size": "23-27 吋",
+      "price": 300
+    },
+    {
+      "key": 3,
+      "size": "28 吋以上",
+      "price": 400
+    }
+  ]
+  },
+  "categoryData": {
+    "categories": [
+    {
+      "key": 1,
+      "category": "拉鍊",
+      "items": [
+        { 
+          "key": 1,
+          "item": "更換拉鍊頭",
+          "prices": [
+            {
+              "brands": [6, 7, 99],
+              "price": 200
+            },
+            {
+              "brands": [1],
+              "price": 600
+            },
+            {
+              "brands": [2],
+              "price": 400
+            },
+            {
+              "brands": [3, 4, 5],
+              "price": 350
+            }
+          ]
+        },
+        { 
+          "key": 2,
+          "item": "更換箱體拉鍊",
+          "prices": [
+            {
+              "brands": [2, 3, 5, 99],
+              "sizes": [
+                {
+                  "size": 1,
+                  "price": 1500
+                },
+                {
+                  "size": 2,
+                  "price": 1800
+                },
+                {
+                  "size": 3,
+                  "price": 2000
+                }
+              ]
+            },
+            {
+              "brands": [1, 6],
+              "sizes": [
+                {
+                  "size": 1,
+                  "price": 2500
+                },
+                {
+                  "size": 2,
+                  "price": 3000
+                },
+                {
+                  "size": 3,
+                  "price": 3500
+                }
+              ]
+            },
+            {
+              "brands": [4, 7],
+              "sizes": [
+                {
+                  "size": 1,
+                  "price": 2000
+                },
+                {
+                  "size": 2,
+                  "price": 2000
+                },
+                {
+                  "size": 3,
+                  "price": 2000
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": 2,
+      "category": "提把",
+      "items": [
+        {
+          "key": 1,
+          "item": "更換提把",
+          "prices": [
+            {
+              "brands": [2, 3, 4, 5, 6, 7, 99],
+              "price": 500
+            },
+            {
+              "brands": [1],
+              "price": 1500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": 3,
+      "category": "拉桿",
+      "items": [
+        {
+          "key": 1,
+          "item": "更換拉桿",
+          "prices": [
+            {
+              "brands": [2, 3, 4, 5, 6, 7, 99],
+              "price": 1000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": 4,
+      "category": "輪子",
+      "items": [
+        {
+          "key": 1,
+          "item": "更換輪子",
+          "prices": [
+            {
+              "brands": [2, 3, 4, 5, 6, 7, 99],
+              "price": 500
+            }
+          ]
+        },
+        {
+          "key": 2,
+          "item": "更換輪座",
+          "prices": [
+            {
+              "brands": [2, 3, 4, 5, 6, 7, 99],
+              "price": 600
+            },
+            {
+              "brands": [1],
+              "price": 1500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": 5,
+      "category": "鎖",
+      "items": [
+        {
+          "key": 1,
+          "item": "更換鎖",
+          "prices": [
+            {
+              "brands": [2, 3, 4, 5, 6, 7, 99],
+              "price": 500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": 6,
+      "category": "其他"
+    }
+  ]
+  },
+  "size": "23-27 吋",
+  "sizeKey": "2",
+  "shippingPrice": "300",
+  "brandKey": 99,
+  "fixItems": [
+    {item: "更換鎖", key: 1}
+  ],
+  "hasNoPrice": false
+}
