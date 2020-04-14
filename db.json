@@ -3,6 +3,5 @@
   "brandKey": 99,
   "fixItems": [
     {"item": "更換鎖", "key": 1}
-  ],
-  "hasNoPrice": false
+  ]
 }
